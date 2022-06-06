@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+html {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%;
+
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+.li {
+    color: white;
+}
+nav {
+    background-color: #F0A83E;
+    color: white;
+}
+
+div {
+    text-align: right;
+}
+
+main {
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+    background-position: center;
+    background-size: cover;
+    display: block;
+    height: 405px;
+    width: 100%;
+    text-align: center;
+}
+button {
+    background-color: #F0A83E;
+}
+
+h2 {
+    text-align: right;
+    color: #3C2313;
+}
+i {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-weight: 700;
+    size: 40px;
+    line-height: 46.88px;
+}
+
+section {
+    text-align: center;
+}
+
+h4 {
+    font-style: inherit;
+}
+
+.backgroundMarron {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    background-color: #3C2313;
+    background-position: bottom;
+    height: 284px;
+    top: 1560px;
+
+}
+.orangebackground {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    background-color: #F0A83E;
+    background-size: cover;
+    top: 1449px;
+}
+
+.backgroundNegro {
+    color: white;
+    background-color: black;
+    top: 1787px;
+    height: 20px;
+
+}
+.logocatdog2 {
+    width: 166px;
+    height: 23px;
+    top: 1636px;
+    left: 788px;
+}
